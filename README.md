@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0008-string-to-integer-atoi) |
 ## Math
 |  |
 | ------- |
