@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0013-roman-to-integer) |
+| [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0032-longest-valid-parentheses) |
+| [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -175,4 +177,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0037-sudoku-solver) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
