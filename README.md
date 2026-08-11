@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0040-combination-sum-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0037-sudoku-solver) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0018-4sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
 | ------- |
