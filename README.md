@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0046-permutations) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0046-permutations) |
 ## Linked List
 |  |
 | ------- |
