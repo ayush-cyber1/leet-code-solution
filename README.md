@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0045-jump-game-ii) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0045-jump-game-ii) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
