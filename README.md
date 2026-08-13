@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0048-rotate-image) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0048-rotate-image) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0048-rotate-image) |
 ## Algorithm X
 |  |
 | ------- |
