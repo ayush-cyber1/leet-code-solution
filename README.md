@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0049-group-anagrams) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0049-group-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
