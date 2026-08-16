@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0053-maximum-subarray) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0053-maximum-subarray) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
