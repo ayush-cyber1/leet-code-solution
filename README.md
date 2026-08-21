@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0059-spiral-matrix-ii) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0059-spiral-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 ## Monotonic Stack
 |  |
