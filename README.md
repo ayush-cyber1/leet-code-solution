@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0057-insert-interval) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
