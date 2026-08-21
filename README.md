@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0056-merge-intervals) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0056-merge-intervals) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
