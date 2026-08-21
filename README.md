@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0058-length-of-last-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
