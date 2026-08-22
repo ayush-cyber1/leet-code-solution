@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0064-minimum-path-sum) |
 ## Algorithm X
 |  |
 | ------- |
