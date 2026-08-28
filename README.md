@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0073-set-matrix-zeroes) |
 ## Algorithm X
 |  |
 | ------- |
