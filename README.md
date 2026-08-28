@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
