@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0068-text-justification) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0068-text-justification) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0068-text-justification) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 ## Monotonic Stack
 |  |
