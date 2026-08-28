@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0067-add-binary) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0067-add-binary) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 ## Monotonic Stack
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0067-add-binary) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quicksort
 |  |
