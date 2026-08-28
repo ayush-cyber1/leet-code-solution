@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0066-plus-one) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0066-plus-one) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
