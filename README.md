@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0089-gray-code) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0089-gray-code) |
 ## Linked List
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0089-gray-code) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quicksort
 |  |
