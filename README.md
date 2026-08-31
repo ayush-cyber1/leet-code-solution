@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0087-scramble-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0087-scramble-string) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
