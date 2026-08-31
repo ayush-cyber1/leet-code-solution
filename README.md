@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -345,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0079-word-search) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
