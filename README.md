@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0118-pascals-triangle) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0118-pascals-triangle) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
