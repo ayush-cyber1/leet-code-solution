@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0125-valid-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
