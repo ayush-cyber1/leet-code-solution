@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0127-word-ladder) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0127-word-ladder) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0127-word-ladder) |
 ## DP on Trees
 |  |
 | ------- |
@@ -515,4 +518,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
