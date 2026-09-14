@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0131-palindrome-partitioning) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0131-palindrome-partitioning) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
