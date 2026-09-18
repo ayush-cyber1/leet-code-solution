@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -434,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 ## Bubble Sort
 |  |
 | ------- |
