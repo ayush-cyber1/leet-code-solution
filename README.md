@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0168-excel-sheet-column-title) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
+| [0168-excel-sheet-column-title](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0168-excel-sheet-column-title) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
