@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0174-dungeon-game) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0174-dungeon-game) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0174-dungeon-game) |
 ## Algorithm X
 |  |
 | ------- |
