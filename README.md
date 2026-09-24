@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0179-largest-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0174-dungeon-game) |
+| [0179-largest-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0179-largest-number) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0179-largest-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
