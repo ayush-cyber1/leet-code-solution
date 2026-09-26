@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0191-number-of-1-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quicksort
 |  |
