@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -400,11 +403,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quicksort
 |  |
@@ -713,4 +719,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
