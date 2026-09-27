@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0197-rising-temperature) |
 ## Rolling Hash
 |  |
 | ------- |
