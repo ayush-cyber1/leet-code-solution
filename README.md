@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0202-happy-number) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0202-happy-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
