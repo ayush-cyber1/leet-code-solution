@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
 ## Algorithm X
 |  |
 | ------- |
