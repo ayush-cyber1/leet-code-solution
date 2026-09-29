@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
@@ -415,11 +417,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -842,4 +846,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
