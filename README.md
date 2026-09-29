@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0216-combination-sum-iii) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
+| [0216-combination-sum-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0216-combination-sum-iii) |
 ## Linked List
 |  |
 | ------- |
