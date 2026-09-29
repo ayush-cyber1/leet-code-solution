@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
@@ -407,10 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -829,4 +833,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0214-shortest-palindrome) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
