@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0221-maximal-square) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0220-contains-duplicate-iii) |
+| [0221-maximal-square](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0221-maximal-square) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0221-maximal-square) |
 ## Algorithm X
 |  |
 | ------- |
