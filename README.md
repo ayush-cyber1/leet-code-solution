@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0223-rectangle-area) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0223-rectangle-area) |
 ## Euclidean Algorithm
 |  |
 | ------- |
