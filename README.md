@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0228-summary-ranges) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
