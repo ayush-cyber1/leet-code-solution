@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
@@ -802,10 +805,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
 ## Iterator
 |  |
 | ------- |
