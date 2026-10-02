@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0231-power-of-two) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quicksort
 |  |
