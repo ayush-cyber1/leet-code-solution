@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0233-number-of-digit-one) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0233-number-of-digit-one) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
 | ------- |
