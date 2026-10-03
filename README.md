@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0239-sliding-window-maximum) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0239-sliding-window-maximum) |
 ## Tree
 |  |
 | ------- |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0239-sliding-window-maximum) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -939,4 +944,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
