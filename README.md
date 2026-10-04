@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0257-binary-tree-paths) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
 | ------- |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0257-binary-tree-paths) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
