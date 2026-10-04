@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0263-ugly-number) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
