@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -615,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quicksort
 |  |
