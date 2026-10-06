@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0264-ugly-number-ii) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0264-ugly-number-ii) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0264-ugly-number-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
