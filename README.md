@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
