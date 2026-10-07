@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0284-peeking-iterator) |
+| [0287-find-the-duplicate-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0287-find-the-duplicate-number) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quicksort
 |  |
@@ -840,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -881,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
 | ------- |
