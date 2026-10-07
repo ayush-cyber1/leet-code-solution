@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0282-expression-add-operators) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0282-expression-add-operators) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0282-expression-add-operators) |
 ## Linked List
 |  |
 | ------- |
