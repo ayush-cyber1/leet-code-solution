@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0278-first-bad-version) |
 ## Matrix
 |  |
 | ------- |
@@ -994,4 +995,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0274-h-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
