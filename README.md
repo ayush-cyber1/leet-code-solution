@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0290-word-pattern) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0290-word-pattern) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
