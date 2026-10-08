@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -595,14 +596,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -1029,4 +1033,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0279-perfect-squares) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
