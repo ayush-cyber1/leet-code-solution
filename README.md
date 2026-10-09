@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0299-bulls-and-cows) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0299-bulls-and-cows) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayush-cyber1/leet-code-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0299-bulls-and-cows) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
