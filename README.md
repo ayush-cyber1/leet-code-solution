@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0303-range-sum-query-immutable) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0303-range-sum-query-immutable) |
 ## Manacher
 |  |
 | ------- |
