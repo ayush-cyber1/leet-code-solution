@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0310-minimum-height-trees) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0310-minimum-height-trees) |
 ## DP on Trees
 |  |
 | ------- |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0310-minimum-height-trees) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -994,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
