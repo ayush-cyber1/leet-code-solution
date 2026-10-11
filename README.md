@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0307-range-sum-query-mutable) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0307-range-sum-query-mutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0307-range-sum-query-mutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1012,10 +1015,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0307-range-sum-query-mutable) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1077,4 +1082,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0300-longest-increasing-subsequence) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
