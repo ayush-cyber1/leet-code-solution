@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0319-bulb-switcher) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0319-bulb-switcher) |
 ## Impartial Game
 |  |
 | ------- |
