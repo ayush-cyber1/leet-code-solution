@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0313-super-ugly-number) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0313-super-ugly-number) |
 | [1510-stone-game-iv](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/ayush-cyber1/leet-code-solution/tree/master/0313-super-ugly-number) |
 | [1470-shuffle-the-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ayush-cyber1/leet-code-solution/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush-cyber1/leet-code-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
